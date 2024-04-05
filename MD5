@@ -1,4 +1,4 @@
-34311e093ed99c0fe177cb31e1e3f03b *DESCRIPTION
+f1747ac7ccd8266149f792ec68a32a83 *DESCRIPTION
 e7f34d213175d0d79ef45fd25f75b117 *NAMESPACE
 a370ed87e974c48ce4af4d7e9419bf7f *R/bootstrap.R
 8e3abaf192ef617442a372b1741946c1 *R/bootstrapCoef.R
@@ -6,7 +6,7 @@ a370ed87e974c48ce4af4d7e9419bf7f *R/bootstrap.R
 5d217f159ed1d339efac94748bb6362e *R/general.R
 ccdf6db1faedcac9e0bf075690bad5c9 *R/histogramArray.R
 a41559f62e317c1db01d77f753662018 *R/iNZightQQplot.R
-bcbb5b27a5f5ffc199c0fe3de09c6438 *R/iNZightRegression.R
+847388788f64d69827bfbcbeec14f7f4 *R/iNZightRegression-package.R
 cdf4cfd0d12e095d5a8c6ea5f6e5764c *R/inzplot.R
 9e54450ae79ff3f65584541e8f5ccafd *R/inzplot_glm.R
 a6822ea1728d0fd3a356df923a5e95b4 *R/inzplot_lm.R
@@ -27,7 +27,7 @@ ac2d3f17af77cc2fbf351cd4e0c8fff9 *man/Poly.Rd
 7a9408750d59bf426f19b800470cf3b9 *man/figures/README-example-3.png
 b0c7126f54d1dbf48f61e963fe7ef09e *man/histogramArray.Rd
 e2e1337719861109904e1d7f9970be7a *man/iNZightQQplot.Rd
-9f6a9e83ff57dd7e187b00ef43284eee *man/iNZightRegression.Rd
+45602e840c960e5c62f7e66b2cec2608 *man/iNZightRegression-package.Rd
 5eeb4ab3e80d9c3c5f63235fb412df41 *man/iNZightSummary.Rd
 b806cad67fa4bdcd31a0af94dbb1a5e3 *man/inzplot.lm.Rd
 17931fa9515d2427d0867a24c28051c6 *man/inzsummary.lm.Rd
